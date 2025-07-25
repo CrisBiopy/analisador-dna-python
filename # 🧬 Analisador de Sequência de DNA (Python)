@@ -1,0 +1,32 @@
+README.md
+# 🔬 Analisador de Sequência de DNA (Python)
+
+Projeto simples e funcional criado por **Cris Bulgakan** para análise básica de sequências de DNA, feito em Python.
+
+---
+
+## 🚀 Funcionalidades
+
+✅ Contagem de bases nitrogenadas (A, T, C, G)  
+✅ Cálculo de GC%  
+✅ Identificação de códons de início e parada  
+✅ Interface em terminal simples e direta  
+✅ Código limpo e comentado
+
+---
+
+## 📷 Exemplo de uso
+
+```bash
+Digite a sequência de DNA: ATGCGTAAATAG
+Sequência válida.
+Comprimento: 12 nucleotídeos
+Contagem:
+- A: 3
+- T: 3
+- G: 3
+- C: 3
+GC%: 50.0%
+Códon de Início: encontrado (ATG)
+Códon de Parada: encontrado (TAA)
+Criando README.md com descrição do projeto
